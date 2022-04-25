@@ -5,6 +5,6 @@
 
 
 
-for i in range (15):
+for i in range (5):
     print("Hello World")
 
